@@ -48,7 +48,6 @@ const input = document.querySelector(".top-banner input");
 const msg = document.querySelector(".top-banner .msg");
 const info = document.querySelector(".weather .info")
 
-var apiKey = "44c610c96423a63dd2582335723e6937";
 
 var localStorage = window.localStorage
 
